@@ -3,7 +3,7 @@
 I am pursuing data analytics through the **MSDIA program at UW–Madison**.  
 My work blends **Python, SQL, cloud computing, and data visualization** to solve real-world analytical problems across healthcare, manufacturing, transportation, HR, and more.
 
-This portfolio showcases the major projects I completed during my first semester — plus ongoing self‑driven work as I continue building toward a career in analytics, automation, and data engineering.
+This portfolio showcases the major projects I completed during my first semester, plus ongoing self‑driven work as I continue building toward a career in analytics, automation, and data engineering.
 
 ---
 
