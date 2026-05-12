@@ -9,7 +9,7 @@ My work blends **Python, SQL, cloud computing, and data visualization** to solve
 
 | Category | Tools |
 |---|---|
-| **Languages** | Python, SQL, Bash |
+| **Languages** | Python, SQL |
 | **Cloud** | AWS (S3, EMR, Redshift, SageMaker) |
 | **Databases** | Snowflake, Redshift |
 | **Analytics** | Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn |
@@ -74,23 +74,8 @@ A complete progression from fundamentals to advanced analytics:
 
 ---
 
-## GitHub Stats
-
-![Taran's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TaranSchlich&show_icons=true&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TaranSchlich&layout=compact&hide_border=true)
-
----
-
-## What I'm Working On
-
-- Building a self-driven end-to-end ETL pipeline with public data
-- Developing a new Tableau or Looker dashboard on a domain I care about
-- Expanding into dbt and data pipeline orchestration
-
----
-
 ## Contact
 
 **Email:** taranschlichtmann@gmail.com  
 
-I'm actively looking for data analytics, data engineering, and BI roles. Open to collaboration and new opportunities.
+I'm actively looking for data analytics, data engineering, data science, and BI roles. Open to collaboration and new opportunities.
