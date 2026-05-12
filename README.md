@@ -74,6 +74,18 @@ A complete progression from fundamentals to advanced analytics:
 
 ---
 
+### 5. Upcoming Coursework
+
+| **Applied Analytics** |
+| **Python Fundamentals** |
+| **Prescriptive Modeling and Optimization** |
+| **Predictive Modeling** |
+| **Experiments & Causal Methods** |
+| **Pitfalls, Ethics, Communication, and Leadership in Analytics** |
+| **Text Mining and Generation for Analytics** |
+
+---
+
 ## Contact
 
 **Email:** taranschlichtmann@gmail.com  
