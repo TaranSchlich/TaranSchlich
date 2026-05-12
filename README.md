@@ -1,174 +1,96 @@
-# 👋 Hi, I'm Taran — Data & Analytics Student at UW-Madison
+# Hi, I'm Taran — Data & Analytics Student at UW-Madison
 
 I am pursuing data analytics through the **MSDIA program at UW–Madison**.  
 My work blends **Python, SQL, cloud computing, and data visualization** to solve real-world analytical problems across healthcare, manufacturing, transportation, HR, and more.
-
-This portfolio showcases the major projects I completed during my first semester, plus ongoing self‑driven work as I continue building toward a career in analytics, automation, and data engineering.
 
 ---
 
 ## Technical Skills
 
-**Languages:** Python, SQL (Snowflake, Redshift), Bash  
-**Cloud:** AWS (S3, EMR, Redshift, SageMaker)  
-**Databases:** Snowflake, Redshift  
-**Analytics:** Pandas, NumPy, Matplotlib, Seaborn, Scikit‑Learn  
-**Visualization:** Tableau, Looker Studio, Google Sheets  
-**Other:** Data modeling, ETL pipelines, documentation, reproducible workflows
+| Category | Tools |
+|---|---|
+| **Languages** | Python, SQL, Bash |
+| **Cloud** | AWS (S3, EMR, Redshift, SageMaker) |
+| **Databases** | Snowflake, Redshift |
+| **Analytics** | Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn |
+| **Visualization** | Tableau, Looker Studio, Google Sheets |
+| **Other** | Data modeling, ETL pipelines, reproducible workflows |
 
 ---
 
 ## Featured Projects
 
-### **1. End‑to‑End Cloud Analytics (AWS)**
-- **Redshift Customer Data Warehouse**
-- **EMR Taxi Data Analysis**
-- **SageMaker House Value Prediction**
+### 1. End-to-End Cloud Analytics (AWS)
 
-These projects demonstrate cloud data processing, warehousing, and machine learning workflows.
-
----
-
-### **2. Python Analytics & Modeling**
-- **Healthcare Analytics**
-- **Real Estate Valuation**
-- **Garment Industry Productivity Analysis**
-- **Scooter Rental Demand Analysis**
-
-Each project includes data cleaning, feature engineering, visualization, and statistical modeling.
+| Project | Description |
+|---|---|
+| [Redshift Customer Data Warehouse](https://github.com/TaranSchlich/AWS-Redshift-Customer-Data-Warehouse-UW-Madison-MSDIA) | Star schema warehouse built in AWS Redshift with dimension/fact tables and analytical queries |
+| [EMR Taxi Data Analysis](https://github.com/TaranSchlich/AWS-EMR-Taxi-Data-Analysis-UW-Madison-MSDIA) | Large-scale taxi trip analysis using Apache Spark on AWS EMR |
+| [SageMaker House Value Prediction](https://github.com/TaranSchlich/AWS-Sagemaker-House-Value-Prediction-UW-Madison-MSDIA) | ML regression model trained and deployed on AWS SageMaker to predict housing prices |
+| [S3 + SageMaker AI](https://github.com/TaranSchlich/AWS-S3-SageMaker-AI-UW-Madison-MSDIA) | End-to-end ML pipeline using S3 for data storage and SageMaker for model training |
+| [Redshift Final Project](https://github.com/TaranSchlich/AWS-Redshift-Final-Project-UW-Madison-MSDIA) | Capstone Redshift project covering schema design, data loading, and complex SQL analytics |
 
 ---
 
-### **3. SQL Portfolio (Snowflake)**
+### 2. Python Analytics & Modeling
+
+| Project | Description |
+|---|---|
+| [Healthcare Analytics](https://github.com/TaranSchlich/UW-Madison-MSDIA-Healthcare-Analytics) | BMI, readmission risk, and patient outcome analysis using Pandas and Matplotlib |
+| [Healthcare Ad Spend Analysis](https://github.com/TaranSchlich/Healthcare-Ad-Spend-Analysis-UW-Madison-MSDIA) | Predicts sales from TV, radio, and newspaper ad spend using linear regression |
+| [Real Estate Valuation](https://github.com/TaranSchlich/Real-Estate-Valuation-UW-Madison-MSDIA) | Regression analysis of property value drivers including age, location, and amenities |
+| [Garment Industry Analysis](https://github.com/TaranSchlich/Garment-Industry-Analysis-UW-Madison-MSDIA) | Manufacturing productivity analysis with feature engineering and statistical modeling |
+| [Scooter Rental Analysis](https://github.com/TaranSchlich/Scooter-Rental-Analysis-UW-Madison-MSDIA) | Demand forecasting for scooter-sharing using linear regression and usage pattern analysis |
+| [Taxi Cab Analysis](https://github.com/TaranSchlich/Taxi-Cab-Analysis-UW-Madison-MSDIA) | Profitability assessment of cab vs. rideshare using trip data and statistical tests |
+| [Printer Warranty Probability](https://github.com/TaranSchlich/Printer-Warranty-Probability-UW-Madison-MSDIA) | Warranty claim probability modeling using Poisson and Binomial distributions |
+
+---
+
+### 3. SQL Portfolio (Snowflake)
+
 A complete progression from fundamentals to advanced analytics:
-- Joins, CASE, CTEs  
-- Window functions  
-- Optimization & transformation  
-- Final SQL project  
-- ERD modeling  
+
+| Project | Description |
+|---|---|
+| [First SQL Statements](https://github.com/TaranSchlich/Snowflake-First-SQL-Statements-UW-Madison-MSDIA) | Foundational queries against the TPCDS_SF10TCL database |
+| [Basic SQL](https://github.com/TaranSchlich/Snowflake-Basic-SQL-UW-Madison-MSDIA) | SELECT, filter, sort, and aggregate queries on TPCH_SF1 and HR databases |
+| [Joins & CASE](https://github.com/TaranSchlich/Snowflake-Joins---Cases-SQL-UW-Madison-MSDIA) | Advanced joins and conditional logic on the CENSUS database |
+| [Subqueries & CTEs](https://github.com/TaranSchlich/Snowflake-SQL-Subqueries---CTEs-UW-Madison-MSDIA) | Nested queries and common table expressions for layered analysis |
+| [Window Functions](https://github.com/TaranSchlich/Snowflake-Window-Functions-SQL-UW-Madison-MSDIA) | Ranking, running totals, and partitioned aggregations |
+| [Optimization & Transformation](https://github.com/TaranSchlich/Snowflake-SQL-Optimization---Transformation-UW-Madison-MSDIA) | Query performance tuning and data transformation techniques |
+| [Final SQL Project](https://github.com/TaranSchlich/Snowflake-SQL-Final-Project-UW-Madison-MSDIA) | Capstone project synthesizing all SQL skills on a real-world dataset |
+| [ERD Modeling](https://github.com/TaranSchlich/Snowflake-Lucid-Chart-SQL-ERD-UW-Madison-MSDIA) | Entity-relationship diagrams and schema design using LucidChart |
 
 ---
 
-### **4. Dashboards**
-- **Tableau Traffic Analysis**
-- **Looker Studio Dashboard**
-- **HR Analytics (Google Sheets)**
+### 4. Dashboards
 
-Interactive dashboards showcasing KPI design and data storytelling.
-
----
-
-## Full Project Index
-
-### **Cloud & Big Data**
-- AWS EMR Taxi Analysis  
-- AWS Redshift Final Project  
-- AWS Redshift Customer Warehouse  
-- SageMaker House Value Prediction  
-- S3 + SageMaker AI Project  
-
-### **Python Analytics**
-- Healthcare Analytics  
-- Real Estate Valuation  
-- Garment Industry Analysis  
-- Scooter Rental Analysis  
-- Printer Warranty Probability  
-- Taxi Cab Analysis  
-
-### **SQL (Snowflake)**
-- Basic SQL  
-- First SQL Statements  
-- Joins & CASE  
-- Subqueries & CTEs  
-- Window Functions  
-- Optimization & Transformation  
-- Final SQL Project  
-- ERD Modeling  
-
-### **Dashboards**
-- Tableau Traffic Analysis  
-- Tableau Public Dashboard  
-- Looker Studio Dashboard  
-- HR Analytics (Google Sheets)  
+| Project | Description |
+|---|---|
+| [Tableau Traffic Analysis](https://github.com/TaranSchlich/Tableau-Traffic-Analysis-Dashboard-UW-Madison-MSDIA) | Interactive Tableau dashboard analyzing traffic patterns and incident trends |
+| [Tableau Public Dashboard](https://github.com/TaranSchlich/Tableau-Public-Dashboard-UW-Madison-MSDIA) | Published Tableau Public visualization showcasing data storytelling techniques |
+| [Looker Studio Dashboard](https://github.com/TaranSchlich/Google-Looker-Studio-Dashboard-UW-Madison-MSDIA) | Google Looker Studio report with KPI cards, charts, and drill-down filters |
+| [HR Analytics (Google Sheets)](https://github.com/TaranSchlich/HR-Analytics-Google-Sheets-UW-Madison-MSDIA) | Workforce analytics dashboard built in Google Sheets with pivot tables and charts |
 
 ---
 
-## What I’m Working on Next
+## GitHub Stats
 
-Now that my first semester is complete, I’m building **self‑driven projects** to expand beyond coursework:
-
-- A personal analytics project
-- A fully documented end‑to‑end ETL pipeline  
-- A new dashboard using a public dataset  
+![Taran's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TaranSchlich&show_icons=true&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TaranSchlich&layout=compact&hide_border=true)
 
 ---
 
-## 📬 Contact
+## What I'm Working On
 
-**Email: taranschlichtmann@gmail.com**  
+- Building a self-driven end-to-end ETL pipeline with public data
+- Developing a new Tableau or Looker dashboard on a domain I care about
+- Expanding into dbt and data pipeline orchestration
 
-Let’s connect — I’m always open to collaboration and new opportunities.
+---
 
+## Contact
 
+**Email:** taranschlichtmann@gmail.com  
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+I'm actively looking for data analytics, data engineering, and BI roles. Open to collaboration and new opportunities.
