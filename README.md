@@ -14,7 +14,7 @@ My work blends **Python, SQL, cloud computing, and data visualization** to solve
 | **Databases** | Snowflake, Redshift |
 | **Analytics** | Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn |
 | **Visualization** | Tableau, Looker Studio, Google Sheets |
-| **Other** | Data modeling, ETL pipelines, reproducible workflows |
+| **Other** | Data modeling, ETL pipelines, data warehousing, reproducible workflows |
 
 ---
 
@@ -63,7 +63,22 @@ A complete progression from fundamentals to advanced analytics:
 
 ---
 
-### 4. Dashboards
+### 4. Advanced SQL & Data Warehousing (Snowflake)
+
+Applied data warehousing across diverse real-world domains:
+
+| Project | Description |
+|---|---|
+| [Module 1 — Streaming Services](https://github.com/TaranSchlich/Advanced-SQL-and-Data-Warehousing---1) | Snowflake warehouse setup and SQL analytics on streaming service subscription data |
+| [Module 2 — Fitness Gym](https://github.com/TaranSchlich/Advanced-SQL-and-Data-Warehousing---2) | Warehouse design and analytics on gym check-in and membership data |
+| [Module 3 — Electronics Sales](https://github.com/TaranSchlich/Advanced-SQL-and-Data-Warehousing---3) | Snowflake analytics on electronics sales and warranty data |
+| [Module 4](https://github.com/TaranSchlich/Advanced-SQL-and-Data-Warehousing---4) | Advanced Snowflake data warehouse and SQL analytics |
+| [Module 5 — Food Trucks](https://github.com/TaranSchlich/Advanced-SQL-and-Data-Warehousing---5) | Food truck sales analytics using window functions and running totals |
+| [Module 6 — EV Charging](https://github.com/TaranSchlich/Advance-SQL-and-Data-Warehousing---6) | Snowflake analytics on EV charging network data |
+
+---
+
+### 5. Dashboards
 
 | Project | Description |
 |---|---|
@@ -74,7 +89,7 @@ A complete progression from fundamentals to advanced analytics:
 
 ---
 
-### 5. Upcoming Coursework
+### 6. Upcoming Coursework
 
 | **Applied Analytics** |
 | **Python Fundamentals** |
