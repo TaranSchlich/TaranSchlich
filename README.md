@@ -1,7 +1,7 @@
 # Hi, I'm Taran — Data & Analytics Student at UW-Madison
 
 I am pursuing data analytics through the **MSDIA program at UW–Madison**.  
-My work blends **Python, SQL, cloud computing, and data visualization** to solve real-world analytical problems across healthcare, manufacturing, transportation, HR, and more.
+My work blends **Python, SQL, cloud computing, data visualization, and process automation** to solve real-world analytical problems across healthcare, manufacturing, transportation, HR, and more.
 
 ---
 
@@ -11,10 +11,11 @@ My work blends **Python, SQL, cloud computing, and data visualization** to solve
 |---|---|
 | **Languages** | Python, SQL, Bash |
 | **Cloud** | AWS (S3, EMR, Redshift, SageMaker) |
-| **Databases** | Snowflake, Redshift |
-| **Analytics** | Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn |
+| **Databases** | Snowflake (incl. Cortex AI), AWS Redshift |
+| **Analytics** | Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn, PM4Py |
 | **Visualization** | Tableau, Looker Studio, Google Sheets |
-| **Other** | Data modeling, ETL pipelines, reproducible workflows |
+| **Automation** | Zapier, AI Agents, Python scripted automation |
+| **Other** | Data modeling, ETL pipelines, process mining, RBAC, reproducible workflows |
 
 ---
 
@@ -32,7 +33,36 @@ My work blends **Python, SQL, cloud computing, and data visualization** to solve
 
 ---
 
-### 2. Python Analytics & Modeling
+### 2. Advanced SQL & Data Warehousing (Snowflake)
+
+End-to-end data warehouse builds with real-world business datasets — covering schema design, data loading, analytical SQL, and BI integration:
+
+| Project | Description |
+|---|---|
+| [Streaming Service DW](https://github.com/TaranSchlich/Advanced-SQL-and-Data-Warehousing---1) | Snowflake warehouse on subscription, watch history, and ad survey data |
+| [Fitness Gym DW](https://github.com/TaranSchlich/Advanced-SQL-and-Data-Warehousing---2) | Snowflake warehouse on gym check-in, member, and location data |
+| [Electronics Sales DW](https://github.com/TaranSchlich/Advanced-SQL-and-Data-Warehousing---3) | Snowflake warehouse on electronics sales, warranty claims, and customer data |
+| [Advanced SQL #4](https://github.com/TaranSchlich/Advanced-SQL-and-Data-Warehousing---4) | Advanced SQL & Data Warehousing project |
+| [Food Truck Sales + Looker Studio](https://github.com/TaranSchlich/Advanced-SQL-and-Data-Warehousing---5) | Window functions, running totals, YoY growth analysis with a Looker Studio dashboard |
+| [EV Charging Network DW + Cortex AI](https://github.com/TaranSchlich/Advance-SQL-and-Data-Warehousing---6) | Snowflake DW with resource monitors, RBAC, and Cortex AI for sentiment analysis and text classification |
+
+---
+
+### 3. Robotic Process Automation & AI Agents
+
+| Project | Description |
+|---|---|
+| [Process Mining — Insurance Claims](https://github.com/TaranSchlich/Robotic-Process-Automation---Process-Mining) | PM4Py process mining to discover workflow patterns, detect anomalies, and visualize claim lifecycle with DFGs and Heuristic Miner maps |
+| [Scripted Automation — Clinical Trial Sites](https://github.com/TaranSchlich/Robotic-Process-Automation---Scripted-Automation) | Python automation that scores and ranks U.S. counties as clinical trial site candidates using 2020 Census data |
+| [Workflow Integration — Mortgage Transcripts](https://github.com/TaranSchlich/Robotic-Process-Automation---Workflow-Integration) | Zapier workflow that extracts, summarizes, and logs mortgage call transcripts using AI |
+| [Process Mapping — SaaS Onboarding](https://github.com/TaranSchlich/Robotic-Process-Automation---Process-Mapping) | Swim lane process map and stakeholder analysis identifying churn drivers and competitive gaps |
+| [Coding Agents — Fraud Detection](https://github.com/TaranSchlich/Robotic-Process-Automation---Coding-Agents) | NimbusPay rule-based transaction risk scoring and fraud detection system in Python |
+| [General Agents — Real Estate Review](https://github.com/TaranSchlich/Robotic-Process-Automation---General-Agents) | AI agent workflow for commercial real estate quarterly property review |
+| [RPA Final Project — Order-to-Cash](https://github.com/TaranSchlich/Robotic-Process-Automation---Final-Project) | Bolt Socks consulting capstone: process map, PM4Py mining on SAP event data, and Zapier invoice automation |
+
+---
+
+### 4. Python Analytics & Modeling
 
 | Project | Description |
 |---|---|
@@ -46,9 +76,7 @@ My work blends **Python, SQL, cloud computing, and data visualization** to solve
 
 ---
 
-### 3. SQL Portfolio (Snowflake)
-
-A complete progression from fundamentals to advanced analytics:
+### 5. SQL Foundations (Snowflake)
 
 | Project | Description |
 |---|---|
@@ -63,7 +91,7 @@ A complete progression from fundamentals to advanced analytics:
 
 ---
 
-### 4. Dashboards
+### 6. Dashboards
 
 | Project | Description |
 |---|---|
