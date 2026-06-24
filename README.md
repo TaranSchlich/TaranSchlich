@@ -1,7 +1,12 @@
-# Hi, I'm Taran — Data & Analytics Student at UW-Madison
+# Hi, I'm Taran — Data Analyst | M.S. Data, Insights & Analytics @ UW–Madison
 
-I am pursuing data analytics through the **MSDIA program at UW–Madison**.  
-My work blends **Python, SQL, cloud computing, process automation, and data visualization** to solve real-world analytical problems across healthcare, manufacturing, transportation, real estate, HR, and more.
+I'm a graduate student in the **M.S. in Data, Insights & Analytics (MSDIA) program at UW–Madison**, building end-to-end analytics solutions that turn messy, real-world data into business decisions. My work blends **Python, SQL, cloud computing, machine learning, process automation, and data visualization** across healthcare, finance, marketing, manufacturing, transportation, real estate, and HR.
+
+I approach problems like a consultant: clarify the business question, explore the data, model it, and communicate findings through dashboards and executive-ready presentations.
+
+**Actively seeking** data analyst, data engineer, data science, and BI roles.
+
+📍 Madison, WI · 📧 taranschlichtmann@gmail.com
 
 ---
 
@@ -10,19 +15,38 @@ My work blends **Python, SQL, cloud computing, process automation, and data visu
 | Category | Tools |
 |---|---|
 | **Languages** | Python, SQL |
-| **Cloud** | AWS (S3, EMR, Redshift, SageMaker) |
-| **Databases** | Snowflake, Redshift |
-| **Analytics** | Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn |
+| **Cloud & Big Data** | AWS (S3, EMR, Redshift, SageMaker), Apache Spark |
+| **Data Warehousing** | Snowflake, Redshift, star-schema & dimensional modeling |
+| **Analytics & ML** | Pandas, NumPy, Scikit-Learn (regression, K-Means clustering), statistical hypothesis testing |
+| **AI / LLM** | Snowflake Cortex AI, Databricks AI functions, LLM-powered sentiment analysis & translation, AI agents (rule-based & LLM) |
 | **Process Mining** | PM4Py, Directly-Follows Graphs, Heuristic Miner |
-| **Automation** | Zapier, AI Agents (rule-based & LLM-powered) |
-| **Visualization** | Tableau, Looker Studio, Google Sheets |
-| **Other** | Data modeling, ETL pipelines, data warehousing, ERD design, reproducible workflows |
+| **Automation** | Zapier, workflow integration |
+| **Visualization & Apps** | Tableau, Looker Studio, Streamlit, Google Sheets |
+| **Other** | ETL pipelines, ERD design, data storytelling, reproducible workflows |
+
+---
+
+## Education
+
+**University of Wisconsin–Madison** — M.S. in Data, Insights & Analytics (MSDIA)
 
 ---
 
 ## Featured Projects
 
-### 1. End-to-End Cloud Analytics (AWS)
+### 1. Applied Analytics — Consulting Case Studies
+
+A consulting-style series solving end-to-end business problems for *Urban Hamster*, a fictional apparel retailer — from stakeholder interviews through SQL analysis, machine learning, and executive presentations:
+
+| Project | Description |
+|---|---|
+| [Case Study 1 — Customer Service & Returns](https://github.com/TaranSchlich/Applied-Analytics---Case-Study-1-Urban-Hamster-Customer-Service) | Benchmarked a 10% return rate against the 19.3% industry average and quantified **$1.09M** in revenue lost to returns; recommended return-window and prepaid-label changes. *(Snowflake SQL · Tableau · Python)* |
+| [Case Study 2 — Marketing & Segmentation](https://github.com/TaranSchlich/Applied-Analytics---Case-Study-2-Marketing) | Built **K-Means** customer segments (VIP, growth, light buyers) and applied **LLM functions** to translate and analyze multilingual reviews. *(Snowflake · Scikit-Learn · Databricks AI)* |
+| [Case Study 3 — Finance & Pricing](https://github.com/TaranSchlich/Applied-Analytics---Case-Study-3-Finance) | Analyzed **90.7% YoY sales growth** and pricing-policy compliance across 29,120 products, delivered via a **Streamlit-in-Snowflake** pricing app. *(Snowflake SQL · Python · Streamlit)* |
+
+---
+
+### 2. End-to-End Cloud Analytics (AWS)
 
 | Project | Description |
 |---|---|
@@ -34,7 +58,7 @@ My work blends **Python, SQL, cloud computing, process automation, and data visu
 
 ---
 
-### 2. Python Analytics & Modeling
+### 3. Python Analytics & Modeling
 
 | Project | Description |
 |---|---|
@@ -48,7 +72,7 @@ My work blends **Python, SQL, cloud computing, process automation, and data visu
 
 ---
 
-### 3. SQL Portfolio (Snowflake)
+### 4. SQL Portfolio (Snowflake)
 
 A complete progression from fundamentals to advanced analytics:
 
@@ -65,7 +89,7 @@ A complete progression from fundamentals to advanced analytics:
 
 ---
 
-### 4. Advanced SQL & Data Warehousing (Snowflake)
+### 5. Advanced SQL & Data Warehousing (Snowflake)
 
 Applied data warehousing across diverse real-world domains:
 
@@ -80,7 +104,7 @@ Applied data warehousing across diverse real-world domains:
 
 ---
 
-### 5. Robotic Process Automation
+### 6. Robotic Process Automation
 
 End-to-end RPA course covering process analysis, scripted automation, AI agents, and workflow integration:
 
@@ -96,7 +120,7 @@ End-to-end RPA course covering process analysis, scripted automation, AI agents,
 
 ---
 
-### 6. Dashboards
+### 7. Dashboards
 
 | Project | Description |
 |---|---|
@@ -107,12 +131,10 @@ End-to-end RPA course covering process analysis, scripted automation, AI agents,
 
 ---
 
-### 7. Upcoming Coursework
+### 8. Upcoming Coursework
 
 | Course |
 |---|
-| Applied Analytics |
-| Python Fundamentals |
 | Prescriptive Modeling and Optimization |
 | Predictive Modeling |
 | Experiments & Causal Methods |
@@ -123,6 +145,6 @@ End-to-end RPA course covering process analysis, scripted automation, AI agents,
 
 ## Contact
 
-**Email:** taranschlichtmann@gmail.com  
+📧 **Email:** taranschlichtmann@gmail.com
 
 I'm actively looking for data analytics, data engineering, data science, and BI roles. Open to collaboration and new opportunities.
