@@ -78,7 +78,19 @@ Applied data warehousing across diverse real-world domains:
 
 ---
 
-### 5. Dashboards
+### 5. Applied Analytics Case Studies
+
+Business-focused analytics case studies applying Python to real-world scenarios across industries:
+
+| Project | Description |
+|---|---|
+| [Case Study 1 — Customer Service](https://github.com/TaranSchlich/Applied-Analytics---Case-Study-1-Urban-Hamster-Customer-Service) | Customer service operations analysis for Urban Hamster, examining support performance and service metrics in Python |
+| [Case Study 2 — Marketing](https://github.com/TaranSchlich/Applied-Analytics---Case-Study-2-Marketing) | Marketing analytics evaluating campaign performance and customer engagement using Python |
+| [Case Study 3 — Finance](https://github.com/TaranSchlich/Applied-Analytics---Case-Study-3-Finance) | Financial analytics applying Python to financial data and decision-making |
+
+---
+
+### 6. Dashboards
 
 | Project | Description |
 |---|---|
@@ -89,15 +101,17 @@ Applied data warehousing across diverse real-world domains:
 
 ---
 
-### 6. Upcoming Coursework
+### 7. Coursework In Progress & Upcoming
 
-| **Applied Analytics** |
-| **Python Fundamentals** |
-| **Prescriptive Modeling and Optimization** |
-| **Predictive Modeling** |
-| **Experiments & Causal Methods** |
-| **Pitfalls, Ethics, Communication, and Leadership in Analytics** |
-| **Text Mining and Generation for Analytics** |
+| Course | Status |
+|---|---|
+| **Applied Analytics** | In progress |
+| **Python Fundamentals** | In progress |
+| **Prescriptive Modeling and Optimization** | Upcoming |
+| **Predictive Modeling** | Upcoming |
+| **Experiments & Causal Methods** | Upcoming |
+| **Pitfalls, Ethics, Communication, and Leadership in Analytics** | Upcoming |
+| **Text Mining and Generation for Analytics** | Upcoming |
 
 ---
 
