@@ -128,6 +128,7 @@ Building core Python programming skills from the ground up, week by week:
 | Project | Description |
 |---|---|
 | [Week 1 — Control Flow](https://github.com/TaranSchlich/Python-Fundamentals---Week-1-Control-Flow) | Conditional logic, loops, and control-flow fundamentals in Python |
+| [Week 2 — Functions & Modularity](https://github.com/TaranSchlich/Python-Fundamentals---Week-2-Functions-Modularity) | Writing reusable functions and structuring code into modular, maintainable components |
 
 ---
 
