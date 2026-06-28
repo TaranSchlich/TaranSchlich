@@ -43,6 +43,7 @@ A consulting-style series solving end-to-end business problems for *Urban Hamste
 | [Case Study 1 — Customer Service & Returns](https://github.com/TaranSchlich/Applied-Analytics---Case-Study-1-Urban-Hamster-Customer-Service) | Benchmarked a 10% return rate against the 19.3% industry average and quantified **$1.09M** in revenue lost to returns; recommended return-window and prepaid-label changes. *(Snowflake SQL · Tableau · Python)* |
 | [Case Study 2 — Marketing & Segmentation](https://github.com/TaranSchlich/Applied-Analytics---Case-Study-2-Marketing) | Built **K-Means** customer segments (VIP, growth, light buyers) and applied **LLM functions** to translate and analyze multilingual reviews. *(Snowflake · Scikit-Learn · Databricks AI)* |
 | [Case Study 3 — Finance & Pricing](https://github.com/TaranSchlich/Applied-Analytics---Case-Study-3-Finance) | Analyzed **90.7% YoY sales growth** and pricing-policy compliance across 29,120 products, delivered via a **Streamlit-in-Snowflake** pricing app. *(Snowflake SQL · Python · Streamlit)* |
+| [Case Study 4 — Web Operations](https://github.com/TaranSchlich/Applied-Analytics---Case-Study-4-Web-Operations) | Web operations analytics examining site traffic, performance, and operational efficiency to surface optimization opportunities. *(Python)* |
 
 ---
 
@@ -120,7 +121,17 @@ End-to-end RPA course covering process analysis, scripted automation, AI agents,
 
 ---
 
-### 7. Dashboards
+### 7. Python Fundamentals
+
+Building core Python programming skills from the ground up, week by week:
+
+| Project | Description |
+|---|---|
+| [Week 1 — Control Flow](https://github.com/TaranSchlich/Python-Fundamentals---Week-1-Control-Flow) | Conditional logic, loops, and control-flow fundamentals in Python |
+
+---
+
+### 8. Dashboards
 
 | Project | Description |
 |---|---|
@@ -131,7 +142,7 @@ End-to-end RPA course covering process analysis, scripted automation, AI agents,
 
 ---
 
-### 8. Upcoming Coursework
+### 9. Upcoming Coursework
 
 | Course |
 |---|
