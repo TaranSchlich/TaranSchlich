@@ -87,10 +87,21 @@ Business-focused analytics case studies applying Python to real-world scenarios 
 | [Case Study 1 — Customer Service](https://github.com/TaranSchlich/Applied-Analytics---Case-Study-1-Urban-Hamster-Customer-Service) | Customer service operations analysis for Urban Hamster, examining support performance and service metrics in Python |
 | [Case Study 2 — Marketing](https://github.com/TaranSchlich/Applied-Analytics---Case-Study-2-Marketing) | Marketing analytics evaluating campaign performance and customer engagement using Python |
 | [Case Study 3 — Finance](https://github.com/TaranSchlich/Applied-Analytics---Case-Study-3-Finance) | Financial analytics applying Python to financial data and decision-making |
+| [Case Study 4 — Web Operations](https://github.com/TaranSchlich/Applied-Analytics---Case-Study-4-Web-Operations) | Web operations analytics applying Python to site performance and operational data |
 
 ---
 
-### 6. Dashboards
+### 6. Python Fundamentals
+
+Core Python programming skills built progressively, week by week:
+
+| Project | Description |
+|---|---|
+| [Week 1 — Control Flow](https://github.com/TaranSchlich/Python-Fundamentals---Week-1-Control-Flow) | Conditionals, loops, and control flow logic in Python |
+
+---
+
+### 7. Dashboards
 
 | Project | Description |
 |---|---|
@@ -101,11 +112,11 @@ Business-focused analytics case studies applying Python to real-world scenarios 
 
 ---
 
-### 7. Coursework In Progress & Upcoming
+### 8. Coursework Progress
 
 | Course | Status |
 |---|---|
-| **Applied Analytics** | In progress |
+| **Applied Analytics** | Completed |
 | **Python Fundamentals** | In progress |
 | **Prescriptive Modeling and Optimization** | Upcoming |
 | **Predictive Modeling** | Upcoming |
